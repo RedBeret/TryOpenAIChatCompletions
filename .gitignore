@@ -1,0 +1,23 @@
+# General Python ignores
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
